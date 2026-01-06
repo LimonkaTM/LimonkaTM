@@ -129,6 +129,6 @@ I am a specialist with 2 years of experience in Front-end development. I strive 
 
 ## 📊 Statistics
 
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimonkaTM&theme=github_dark)
-![Top Lang Comts](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LimonkaTM&theme=github_dark)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LimonkaTM&theme=github_dark)
+[![Summary](https://raw.githubusercontent.com/LimonkaTM/LimonkaTM/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Repos per lang](https://raw.githubusercontent.com/LimonkaTM/LimonkaTM/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://raw.githubusercontent.com/LimonkaTM/LimonkaTM/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
